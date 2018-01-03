@@ -1,0 +1,44 @@
+﻿#gridContainer {
+    height: 1000px;
+    width: 1200px;
+     font-size: 12px;
+    
+}
+
+.custom{
+  
+     font-weight: bold;
+}
+
+.rowColor{
+    font-size: 17px;
+     color: Black  
+}
+
+.detailColor{
+    font-size: 12px;
+     color: Black  
+}
+
+
+.master-detail-caption {
+    padding: 0 0 5px 10px;
+    font-size: 13px;
+     font-weight: bold;
+     color: Black  
+}
+
+.dx-datagrid-headers .dx-row {
+    font-weight: bold;
+    border-bottom: 1px solid #000000;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,	#1E90FF), color-stop(50%,	#1E90FF), color-stop(51%,	#1E90FF), color-stop(100%,	#1E90FF)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top, #F8F8FF 0%,#F8F8FF 50%,#F8F8FF 51%,#F8F8FF 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top, 	#1E90FF 0%,	#1E90FF 50%,	#1E90FF 51%,	#1E90FF 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top, #1e5799 0%,	#1E90FF 50%,	#1E90FF 51%,	#1E90FF 100%); /* IE10+ */
+    background: linear-gradient(to bottom, 	#1E90FF 0%,	#1E90FF 50%,	#1E90FF 51%,	#1E90FF 100%); /* W3C */
+}
+
+.dx-datagrid-headers .cls {
+    background-color: 	#808080;
+    color: Black  
+}
